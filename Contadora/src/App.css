@@ -1,0 +1,18 @@
+
+
+.btn{
+  margin-right: 10px;
+  padding: 19px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(44, 184, 166);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.container{
+  border: 2px solid #000000;
+  width: 70%;
+  margin: auto;
+  padding: 2rem;
+}
