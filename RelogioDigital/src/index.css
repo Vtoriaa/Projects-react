@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  background-color: #43ff5c9f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: rgb(9, 8, 8);
+  text-shadow: 2px 2px solid #efdede44;
+  font-weight: bold;
+  font-size: 35px;
+}
+
